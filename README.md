@@ -1,4 +1,4 @@
-# ResumeRadar 🎯
+# ResumeMate 🎯
 
 AI-Powered Resume Analyzer built using Python, Streamlit, and NLP.
 
